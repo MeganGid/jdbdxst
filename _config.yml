@@ -84,7 +84,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2019
@@ -321,10 +321,10 @@ post_wordcount:
   separated_meta: true
 
 # Wechat Subscriber
-#wechat_subscriber:
-  #enabled: true
-  #qcode: /uploads/qrcode.jpg
-  #description: 总觉得这里放个二维码比较合适
+wechat_subscriber:
+  enabled: true
+  qcode: /uploads/qrcode.jpg
+  description: 总觉得这里放个二维码比较合适
 
 # Declare license on posts
 post_copyright:
