@@ -215,7 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-   School: http://www.bjtu.edu.cn/
+    School: http://www.bjtu.edu.cn/
 
 
 # Social Links Icons
