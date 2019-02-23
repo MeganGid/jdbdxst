@@ -4,4 +4,4 @@
 
 ## Follow us!
 
-![WeChat qrcode](/uploads/qrcode.jpg "Scanning qrcode via WeChat")
+![WeChat qrcode](/uploads/qrcode.jpg)
